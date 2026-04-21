@@ -3,3 +3,6 @@ ERROR: DatabaseError connection failed
 WARNING: DiskSpaceLow threshold reached
 ERROR: TimeoutError request failed
 INFO: running job
+ERROR: DatabaseError connection failed
+ERROR: DatabaseError connection failed
+WARNING: DiskSpaceLow threshold reached
